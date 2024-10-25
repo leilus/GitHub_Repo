@@ -1,0 +1,3 @@
+/Users/leilus/CLionProjects/GitHub_Repo/cmake-build-debug/CMakeFiles/GitHub_Repo.dir
+/Users/leilus/CLionProjects/GitHub_Repo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/leilus/CLionProjects/GitHub_Repo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
